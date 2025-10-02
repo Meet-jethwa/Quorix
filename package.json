@@ -1,6 +1,6 @@
 
   {
-      "name": "Cybersecurity AI Prototype",
+      "name": "Quorix: Phishing Detection",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
